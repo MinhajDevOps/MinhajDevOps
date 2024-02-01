@@ -38,7 +38,7 @@ Check out my technical blog posts on [Hashnode](https://mohammedminhaj.hashnode.
 -->
 ## 📫 Let's Connect
 
-- LinkedIn: [Mohammed Minhaj](https://www.linkedin.com/in/moahmmedminhaj/)
+- LinkedIn: [Mohammed Minhaj](https://www.linkedin.com/in/moahammedminhaj/)
 
 
 
