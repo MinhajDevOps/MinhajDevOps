@@ -9,7 +9,7 @@ I'm Minhaj, a passionate software engineer specializing in .NET (C#), AWS, Azure
 ## About Me
 
 - 🔭 I'm currently working on Terraform
-- 🌱 I’m currently learning Azure DevOps, Docker and Kumbernetes
+- 🌱 I’m currently learning Azure DevOps, Docker and Kubernetes
 
 ## 🔧 Technologies & Tools
 
