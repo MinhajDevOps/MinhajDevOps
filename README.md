@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there! 👋
 
-I'm Minhaj, a passionate software engineer specializing in .NET (C#), AWS, Azure, Terraform, Docker, Kubernetes, and MSSQL Database. Welcome to my GitHub profile! 🚀
+I'm Minhaj, a passionate software engineer specializing in .NET (C#), AWS, Azure, Terraform, Docker, Kubernetes, and MS SQL Database. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
